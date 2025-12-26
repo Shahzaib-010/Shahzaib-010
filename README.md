@@ -2,9 +2,10 @@ Hi👋
 I'm Shahzaib. I build scalable web applications using the MERN stack. I love solving complex structural problems and wrapping them in simple, intuitive designs.
 
 Frontend: React / Redux / Framer Motion
-Backend: Node.js / Express / MongoDB
-Philosophy: If it's not responsive, it's not finished.
 
+Backend: Node.js / Express / MongoDB
+
+Philosophy: If it's not responsive, it's not finished.
 and a lot of caffeine 🍵 :)
 
 <!---
