@@ -1,5 +1,5 @@
 Hi👋
-I'm Shahzaib. I build scalable web applications using the MERN stack. I love solving complex structural problems and wrapping them in simple, intuitive designs.
+I'm Shahzaib. I build scalable web applications using the MERN stack.Love solving complex structural problems and wrapping them in simple, intuitive designs.
 
 Frontend: React / Redux / Framer Motion
 
